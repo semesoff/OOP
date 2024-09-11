@@ -1,0 +1,6 @@
+D:\Study\Cods\C#\OOP\OOP\bin\Debug\OOP.exe
+D:\Study\Cods\C#\OOP\OOP\bin\Debug\OOP.pdb
+D:\Study\Cods\C#\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+D:\Study\Cods\C#\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\Study\Cods\C#\OOP\OOP\obj\Debug\OOP.exe
+D:\Study\Cods\C#\OOP\OOP\obj\Debug\OOP.pdb
