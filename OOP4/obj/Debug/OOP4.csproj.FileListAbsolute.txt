@@ -1,0 +1,6 @@
+D:\Study\Cods\C#\OOP4\OOP4\bin\Debug\OOP4.exe
+D:\Study\Cods\C#\OOP4\OOP4\bin\Debug\OOP4.pdb
+D:\Study\Cods\C#\OOP4\OOP4\obj\Debug\OOP4.csproj.AssemblyReference.cache
+D:\Study\Cods\C#\OOP4\OOP4\obj\Debug\OOP4.csproj.CoreCompileInputs.cache
+D:\Study\Cods\C#\OOP4\OOP4\obj\Debug\OOP4.exe
+D:\Study\Cods\C#\OOP4\OOP4\obj\Debug\OOP4.pdb
