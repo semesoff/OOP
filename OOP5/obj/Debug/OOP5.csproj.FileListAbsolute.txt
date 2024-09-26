@@ -1,0 +1,6 @@
+D:\Study\Cods\C#\OOP5\OOP5\obj\Debug\OOP5.csproj.AssemblyReference.cache
+D:\Study\Cods\C#\OOP5\OOP5\obj\Debug\OOP5.csproj.CoreCompileInputs.cache
+D:\Study\Cods\C#\OOP5\OOP5\bin\Debug\OOP5.exe
+D:\Study\Cods\C#\OOP5\OOP5\bin\Debug\OOP5.pdb
+D:\Study\Cods\C#\OOP5\OOP5\obj\Debug\OOP5.exe
+D:\Study\Cods\C#\OOP5\OOP5\obj\Debug\OOP5.pdb

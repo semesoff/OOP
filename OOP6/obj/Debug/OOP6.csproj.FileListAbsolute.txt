@@ -1,0 +1,2 @@
+D:\Study\Cods\C#\OOP6\OOP6\obj\Debug\OOP6.csproj.AssemblyReference.cache
+D:\Study\Cods\C#\OOP6\OOP6\obj\Debug\OOP6.csproj.CoreCompileInputs.cache

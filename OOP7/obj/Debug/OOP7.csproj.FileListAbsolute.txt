@@ -1,0 +1,2 @@
+D:\Study\Cods\C#\OOP7\OOP7\obj\Debug\OOP7.csproj.AssemblyReference.cache
+D:\Study\Cods\C#\OOP7\OOP7\obj\Debug\OOP7.csproj.CoreCompileInputs.cache
